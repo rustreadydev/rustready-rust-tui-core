@@ -20,9 +20,10 @@ A lightweight Rust TUI template for building terminal user interfaces. Perfect f
 - Cargo
 
 ## Installation
-- git clone https://github.com/rustreadydev/rustready-rust-tui-core
-- cd rustready-rust-tui-core
-- cargo build
+1.  clone or download the template:
+- https://github.com/rustreadydev/rustready-rust-tui-core
+2. cd rustready-rust-tui-core
+3. cargo build
 
 ## Usage
 
