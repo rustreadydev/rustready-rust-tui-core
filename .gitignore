@@ -1,0 +1,4 @@
+/target
+templates/config.json
+log/app.log
+log/app.json
