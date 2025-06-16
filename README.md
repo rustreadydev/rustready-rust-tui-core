@@ -43,7 +43,7 @@ Pull requests welcome! See CONTRIBUTING.md.
 ## Want More Features?
 
 Check out rustready-rust-tui-premium for async support, async data fetching, JSON logging with log4rs, plugins, themes, multi-screen TUI, and shell completions: 
-https://rustreadydev.gumroad.com/l/rustready-rust-tui-premium
+- https://rustreadydev.gumroad.com/l/rustready-rust-tui-premium
 
 ## License 
 
